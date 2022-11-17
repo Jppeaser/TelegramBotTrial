@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'spring-boot-telegram-bot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCB917479F53419F8CC1C650DED4EA77 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFCE20767C6D437A80637BF97C7A24A6 }}
           package: '*.jar'
